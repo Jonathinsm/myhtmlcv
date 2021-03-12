@@ -27,6 +27,13 @@
     display: block;
     width: 100%;
   }
+
+  .profileimg img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+
   .cv {
     position: relative;
     width: 60%;
